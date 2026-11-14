@@ -1,0 +1,6 @@
+{
+  "appId": "com.nasaq.planner",
+  "appName": "نسق",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
